@@ -1,6 +1,7 @@
 #include "Header/integral.h"
 #include <conio.h>
 
+#define N_MIN pow(4, 8)
 #define N_MAX pow(4, 10)
 #define DX_MAX powl(4, -10)
 #define DX_MIN powl(4, -24)
@@ -53,7 +54,7 @@ int main() {
 					ig->lowerBound = parse(lb_value, ' ', 0.0), ig->upperBound = parse(ub_value, ' ', 0.0);
 					free(lb_value), free(ub_value);
 					unsigned int n;
-					for(n=1;n<=N_MAX;n*=4) {
+					for(n=N_MIN;n<=N_MAX;n*=4) {
 						ig->dx = (ig->upperBound - ig->lowerBound) / n;
 						printf("\nFor n=%u intervals:", n);
 						__mingw_printf("\n\tLower Riemann Sum:\t\t\t%.16Lg", lowerRiemannSum(ig, n, variable));
