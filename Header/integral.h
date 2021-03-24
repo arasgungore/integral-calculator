@@ -3,11 +3,15 @@
 
 #include "calculator.h"
 
+// header which contains integration methods
+
+// integral struct declaration
 typedef struct {
 	long double lowerBound, upperBound, dx;
 	Expression expr;
 } Integral;
 
+// function declarations
 long double riemannSum(Integral *ig, const unsigned int n, const char variable, long double xi);
 long double lowerRiemannSum(Integral *ig, const unsigned int n, const char variable);
 long double upperRiemannSum(Integral *ig, const unsigned int n, const char variable);
