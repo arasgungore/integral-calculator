@@ -11,8 +11,8 @@ test
 # Screenshots
 
 <p float="left">
-  <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/title_screen.jpg" width="400" height="400" />
-  <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/calculator.jpg" width="400" height="400" />
+  <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/title_screen.jpg" width="400" height="350" />
+  <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/calculator.jpg" width="400" height="300" />
   <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/integral_1.jpg" width="400" height="600" />
   <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/integral_2.jpg" width="400" height="600" />
 </p>
