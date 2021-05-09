@@ -4,7 +4,7 @@ A C project which parses mathematical expressions and calculates definite integr
 
 
 
-## Run on terminal
+# Run on terminal
 
 ```sh
 gcc main.c -o test
@@ -24,10 +24,9 @@ test
 
 
 
-## Author
+# Author
 
 👤 **Aras Güngöre**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * Github: [@arasgungore](https://github.com/arasgungore)
-* HackerRank: [@arasgungore](https://www.hackerrank.com/arasgungore)
