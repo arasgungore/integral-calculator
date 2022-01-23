@@ -1,6 +1,6 @@
 # integral-calculator
 
-A C project which parses mathematical expressions and calculates definite integrals using trapezoidal rule, Simpson's rule, Boole's rule, and many other Newton-Cotes quadrature formulas. In addition, it can also be used as a derivative calculator or a classic calculator for evaluating expressions.
+A C project which can calculate the definite integral of any given real function using midpoint method, trapezoidal rule, Simpson's rule, Boole's rule, and many other Newton-Cotes quadrature formulas. Alternatively, the project can also estimate the derivative of such functions and compute mathematical expressions according to the order of operations using recursive algorithms.
 
 
 
