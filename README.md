@@ -4,7 +4,7 @@ A C project which can calculate the definite integral of any given real function
 
 
 
-# Run on terminal
+## Run on terminal
 
 ```sh
 gcc main.c -o test
@@ -13,7 +13,7 @@ test
 
 
 
-# Screenshots
+## Screenshots
 
 <p float="left">
     <img alt="Screenshot" src="https://github.com/arasgungore/integral-calculator/blob/main/Screenshots/title_screen.jpg" width="350" height="300">
@@ -24,7 +24,7 @@ test
 
 
 
-# Author
+## Author
 
 👤 **Aras Güngöre**
 
