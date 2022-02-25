@@ -4,7 +4,7 @@ A C project which can calculate the definite integral of any given real function
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 gcc main.c -o test
